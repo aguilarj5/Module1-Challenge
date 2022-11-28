@@ -16,7 +16,7 @@ A basic webpage with a navigation bar in the header that links to content on the
 N/A
 
 ### How to Use
-The webpage can be found on the following this link [here.](https://aguilarj5.github.io/Module1-Challenge/)
+The webpage can be found on the following link [here.](https://aguilarj5.github.io/Module1-Challenge/)
 
 ### Credits
 Coding Bootcamp
