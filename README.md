@@ -3,7 +3,7 @@
 
 ### Motivation
 This was the first assignment for our coding bootcamp. The assignment was to refactor existing code that functioned properly 
-but was not written in the most concise and organize way. The goal was to have the website work as intended but refactor
+but was not written in the most concise and organized way. The goal was to have the website work as intended but refactor
 the code following the rules of HTML and CSS.
 
 ### Build Status
